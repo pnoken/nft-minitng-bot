@@ -1,6 +1,6 @@
 {
   "name": "0xcadabra-nft-bot",
-  "version": "1.0.1",
+  "version": "1.0.02",
   "description": "NFT minting bot",
   "main": "index.js",
   "scripts": {
