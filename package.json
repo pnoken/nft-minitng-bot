@@ -1,0 +1,25 @@
+{
+  "name": "0xcadabra-nft-bot",
+  "version": "1.0.0",
+  "description": "NFT minting bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pnoken/nft-minitng-bot.git"
+  },
+  "keywords": [
+    "nft",
+    "bot",
+    "mint",
+    "frontrun"
+  ],
+  "author": "Peter Nortey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pnoken/nft-minitng-bot/issues"
+  },
+  "homepage": "https://github.com/pnoken/nft-minitng-bot#readme"
+}
