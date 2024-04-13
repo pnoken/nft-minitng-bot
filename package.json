@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/pnoken/nft-minitng-bot/issues"
   },
-  "homepage": "https://github.com/pnoken/nft-minitng-bot#readme"
+  "homepage": "https://github.com/pnoken/nft-minitng-bot#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
 }
