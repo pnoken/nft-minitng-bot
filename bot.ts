@@ -18,3 +18,6 @@ async function send(web3, account, transaction) {
     const receipt = await web3.eth.sendSignedTransaction(signed.rawTransaction);
     return receipt;
 }
+
+const transaction = contract.methods.safeMint(receiver);
+send(web3, account, transaction);
