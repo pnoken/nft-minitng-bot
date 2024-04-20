@@ -1,6 +1,6 @@
 {
   "name": "0xcadabra-nft-bot",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Sweep multiple nfts at a goal",
   "main": "bot.ts",
   "scripts": {
