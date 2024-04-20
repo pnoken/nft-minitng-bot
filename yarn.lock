@@ -2,6 +2,22 @@
 # yarn lockfile v1
 
 
+"0xcadabra-nft-bot@^1.0.4":
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/0xcadabra-nft-bot/-/0xcadabra-nft-bot-1.0.4.tgz#4d3e8ef3c4982808fabee97eef2bbd41a983a59b"
+  integrity sha512-JmUMRutjeIE1+D2D22VEtZS4Y6T6lmJuEXA97GsOkSvl1HOsAt4a48IGx3mvXswdHqXBUPcXD2pg2sBa8Bg3nQ==
+  dependencies:
+    "@eslint/eslintrc" "^3.0.2"
+    "@eslint/js" "^9.1.1"
+    "@typescript-eslint/eslint-plugin" ">=7.0.2"
+    "@typescript-eslint/parser" ">=7.0.2"
+    eslint "^9.1.0"
+    eslint-config-xo-typescript "^4.0.0"
+    express "^4.19.2"
+    globals "^15.0.0"
+    typescript ">=5.0.0"
+    web3 "^4.8.0"
+
 "@aashutoshrathi/word-wrap@^1.2.3":
   version "1.2.6"
   resolved "https://registry.yarnpkg.com/@aashutoshrathi/word-wrap/-/word-wrap-1.2.6.tgz#bd9154aec9983f77b3a034ecaa015c2e4201f6cf"
